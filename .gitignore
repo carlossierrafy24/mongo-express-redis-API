@@ -1,0 +1,20 @@
+# node_modules
+node_modules
+./node_modules
+# npm-debug.log
+npm-debug.log
+# env
+.env
+# build
+build
+dist
+# logs
+logs
+# coverage
+coverage
+# .DS_Store
+.DS_Store
+# .idea
+.idea
+# .vscode
+.vscode
